@@ -45,8 +45,10 @@ main {
 }
 
 footer {
-    background-color: green;
-    height: 100px;
+    background-color: rgba(0,0,0,0.700);
+    text-align: center;
+    padding-top: 45px;
+    padding-bottom: 45px;   
 }
 
 h1 {
@@ -65,4 +67,9 @@ main p {
     font-size: 18px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+footer p {
+    font-size: 10px;
+    color: white;
 }
